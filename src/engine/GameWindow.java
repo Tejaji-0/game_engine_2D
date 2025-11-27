@@ -21,7 +21,7 @@ public class GameWindow extends JFrame {
         setLocationRelativeTo(null); // center on screen
     }
     
-    public void show() {
+    public void display() {
         setVisible(true);
     }
     
